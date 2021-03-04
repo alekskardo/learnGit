@@ -1,3 +1,5 @@
-# learnGit
+# LearnGit and GitHub
 
-THis repo was used to learn git !!!
+## THis repo was used to learn git !!!
+
+
