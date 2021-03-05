@@ -1,4 +1,4 @@
-# LearnGit and GitHub
+# Git and Github course
 
 ## THis repo was used to learn git !!!
 
